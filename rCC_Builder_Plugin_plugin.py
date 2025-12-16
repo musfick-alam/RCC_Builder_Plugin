@@ -88,6 +88,6 @@ toolset.registerGuiMenuButton(
     applicableModules=ALL,
     version='1.0.0',
     author='Musfick Alam',
-    description='N/A',
+    description='Abaqus Plugin to Model RCC Elements',
     helpUrl='N/A'
 )
