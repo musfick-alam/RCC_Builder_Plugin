@@ -4,4 +4,4 @@ RCC Builder is a custom ABAQUS/CAE Python plugin designed to automatically gener
 
 This plugin significantly reduces manual modeling time and ensures consistent, parametric RCC modeling, making it ideal for research, teaching, and professional FE simulations.
 
-
+![Plugin Overview](https://github.com/musfick-alam/RCC_Builder_Plugin/blob/main/Plugin%20Overview.png?raw=true)
